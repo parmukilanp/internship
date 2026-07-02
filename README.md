@@ -1,0 +1,2 @@
+# internship
+embedded system basics 
